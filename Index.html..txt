@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lina Segura - Brand Ambassador</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 1rem 0;
+            text-align: center;
+        }
+        main {
+            padding: 1rem 2rem;
+        }
+        section {
+            margin: 2rem 0;
+        }
+        h2 {
+            border-bottom: 2px solid #4CAF50;
+            padding-bottom: 0.5rem;
+        }
+        .contact {
+            background-color: #fff;
+            padding: 1rem;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 1rem 0;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Lina Segura</h1>
+    <p>Brand Ambassador</p>
+</header>
+
+<main>
+    <section id="about">
+        <h2>About Me</h2>
+        <p>I have been working in the events industry for 5 years, being team lead, model, Brand Ambassador, Registration Attendant, and more. I have excellent customer service skills, I'm a people person who enjoys interacting with others, and I always give my best efforts to ensure a successful experience.</p>
+    </section>
+
+    <section id="experience">
+        <h2>Experience</h2>
+        <ul>
+            <li>Team Lead - Coordinated and managed event teams to ensure smooth operations.</li>
+            <li>Model - Represented various brands and products at events.</li>
+            <li>Brand Ambassador - Promoted brands and engaged with customers to create memorable experiences.</li>
+            <li>Registration Attendant - Managed event registration and provided assistance to attendees.</li>
+        </ul>
+    </section>
+
+    <section id="projects">
+        <h2>Projects</h2>
+        <p>Coming soon...</p>
+    </section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <div class="contact">
+            <p>If you would like to get in touch, please reach out via email:</p>
+            <p><a href="mailto:seguragarzonlina@gmail.com">seguragarzonlina@gmail.com</a></p>
+        </div>
+    </section>
+</main>
+
+<footer>
+    <p>&copy; 2024 Lina Segura</p>
+</footer>
+
+</body>
+</html>
